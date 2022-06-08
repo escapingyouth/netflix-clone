@@ -403,6 +403,7 @@ footer {
 	.get-started button {
 		display: block;
 		margin: 0 auto;
+		border-radius: 2px;
 		width: 25%;
 	}
 	.card {
